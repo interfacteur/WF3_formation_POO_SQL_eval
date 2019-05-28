@@ -1,0 +1,11 @@
+.separate::before,
+separate::after	{
+    content: " ";
+    display: table;
+}
+
+
+.data h2 {
+    font-size: 1.1rem;
+    margin-top: 1.6rem;
+}
