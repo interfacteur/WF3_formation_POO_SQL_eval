@@ -1,5 +1,5 @@
-# wf3_formation
-mon TP avec un to do :
+# formation wf3 : TP POO-SQL du 190528
+to do :
 - déboguer la suppression sur la page des véhicules
 - implémenter suppression et modification sur la page des associations
 - terminer la question affichages divers
