@@ -1,4 +1,7 @@
 # formation wf3 : TP POO-SQL du 190528
+
+après de trop rapides cours avec Hugo Liegeard (https://github.com/hugoliegeard)
+
 to do :
 - déboguer la suppression sur la page des véhicules
 - implémenter suppression et modification sur la page des associations
