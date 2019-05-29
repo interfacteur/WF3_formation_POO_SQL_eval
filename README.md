@@ -1,6 +1,6 @@
 # formation wf3 : TP POO-SQL du 190528
 
-TP d'une durée de 5h15
+TP d'une durée de 5h15 -
 après de trop rapides cours avec Hugo Liegeard (https://github.com/hugoliegeard)
 
 to do :
